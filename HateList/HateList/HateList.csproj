@@ -103,6 +103,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="UI\Images\Friends.jpg" />
+    <Content Include="UI\Images\HomeButton.jpg" />
+    <Content Include="UI\Images\List.png" />
+    <Content Include="UI\Images\Search.png" />
+    <Content Include="UI\Main.html" />
+    <Content Include="UI\Styles\StyleSheet1.css" />
+    <Content Include="UI\Templates\Header.html" />
+    <Content Include="UI\Vendor\Bootstrap\bootstrap.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
